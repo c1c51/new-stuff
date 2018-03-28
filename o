@@ -1,0 +1,7 @@
+import random
+while True:
+    a=(random.randint(1,5)*2)-1
+    b=(random.randint(1,5)*2)-1
+    x=a*b
+    print(x)
+
